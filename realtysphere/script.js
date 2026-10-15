@@ -1,0 +1,1 @@
+var b=document.querySelector('.menu-btn'),n=document.getElementById('nav');b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o)});
